@@ -35,13 +35,13 @@
 📈 **Outcome:** Used by 50+ users, supports CRUD operations and secure login
 
 ---
-
+<!--
 ### 🔹 [Another Cool Project](https://github.com/yourusername/project-repo)
 *A tool that simplifies [problem/goal]*  
 🔧 **Tech Stack:** Python, Flask, MongoDB  
 ✅ **Key Features:** API integration, Data visualization  
 📊 **Outcome:** Improved task efficiency by 40%
-
+-->
 ---
 
 ## 🛠️ Technologies I Use
