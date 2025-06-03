@@ -39,7 +39,7 @@
 
 ---
 
-### 🔹 [Blur Negative Content Extension](https://github.com/yourusername/project-repo)
+### 🔹 [Blur Negative Content Extension](https://github.com/SiddhiSingh28/blur-negative-content)
 *A browser extension that filters and blurs emotionally negative content (e.g., violence, hate speech, political toxicity) on YouTube using an emotion-aware LLM. It offers users a more comfortable and personalized browsing experience by detecting harmful content based on metadata and user preferences.*  
 
 🔧 **Tech Stack:** JavaScript, Chrome Extension API, Flask, Python, Hugging Face (RoBERTa LLM)
