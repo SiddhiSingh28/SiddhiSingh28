@@ -35,13 +35,13 @@
 📈 **Outcome:** Used by 50+ users, supports CRUD operations and secure login
 
 ---
-<!--
-### 🔹 [Another Cool Project](https://github.com/yourusername/project-repo)
-*A tool that simplifies [problem/goal]*  
-🔧 **Tech Stack:** Python, Flask, MongoDB  
-✅ **Key Features:** API integration, Data visualization  
-📊 **Outcome:** Improved task efficiency by 40%
--->
+
+### 🔹 [Blur Negative Content Extension](https://github.com/yourusername/project-repo)
+*A browser extension that filters and blurs emotionally negative content (e.g., violence, hate speech, political toxicity) on YouTube using an emotion-aware LLM. It offers users a more comfortable and personalized browsing experience by detecting harmful content based on metadata and user preferences.*  
+🔧 **Tech Stack:** JavaScript, Chrome Extension API, Flask, Python, Hugging Face (RoBERTa LLM)
+✅ **Key Features:** Real-time content blurring, emotion-based filtering, user customization, AI-powered sentiment analysis 
+📊 **Outcome:** Improved perceived user comfort and reduced exposure to harmful content in user study
+
 ---
 
 ## 🛠️ Technologies I Use
