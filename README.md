@@ -30,16 +30,22 @@
 
 ### 🔹 [Stock Tracker App](https://github.com/yourusername/project-repo)
 *A modern, responsive stock market web application that allows users to search, track, and trade stocks in real-time using live market data APIs (Finnhub, Polygon.io). Built in React + Next.js stack to align with current tech trends.*  
+
 🔧 **Tech Stack:** Next.js, React, Express.js, MongoDB 
+
 ✅ **Key Features:** REST APIs, Authentication, Deployment on '''''''  
+
 📈 **Outcome:** Used by 50+ users, supports CRUD operations and secure login
 
 ---
 
 ### 🔹 [Blur Negative Content Extension](https://github.com/yourusername/project-repo)
 *A browser extension that filters and blurs emotionally negative content (e.g., violence, hate speech, political toxicity) on YouTube using an emotion-aware LLM. It offers users a more comfortable and personalized browsing experience by detecting harmful content based on metadata and user preferences.*  
+
 🔧 **Tech Stack:** JavaScript, Chrome Extension API, Flask, Python, Hugging Face (RoBERTa LLM)
+
 ✅ **Key Features:** Real-time content blurring, emotion-based filtering, user customization, AI-powered sentiment analysis 
+
 📊 **Outcome:** Improved perceived user comfort and reduced exposure to harmful content in user study
 
 ---
